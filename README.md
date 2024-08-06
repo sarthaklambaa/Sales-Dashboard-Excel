@@ -4,6 +4,10 @@
 
 Welcome to my "Sales Dashboard Project"! This data analytics project focuses on cleaning, pre-processing, analyzing, and visualizing sales data using MS Excel. The primary goal is to create a dynamic sales dashboard that provides valuable insights into sales performance, helping businesses understand trends and make informed decisions.
 
+## Screenshot
+
+![Sales Dashboard](Dashboard.jpg)
+
 ## Project Description
 
 Sales analysis is essential for understanding business performance, identifying trends, and making strategic decisions. This project leverages MS Excel to clean and pre-process sales data, analyze various metrics, and create a dynamic dashboard that visualizes key performance indicators (KPIs) such as sales trends, category performance, regional sales, top products, and profit margins.
@@ -52,9 +56,6 @@ The dataset used in this project includes the following headers:
 
 - **Microsoft Excel:** For data cleaning, pre-processing, analysis, and visualization.
 
-## Screenshot
-
-![Sales Dashboard](path/to/your/screenshot.png)
 
 ## Usage
 
